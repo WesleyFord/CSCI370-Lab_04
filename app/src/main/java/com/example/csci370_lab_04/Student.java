@@ -1,3 +1,5 @@
+package com.example.csci370_lab_04;
+
 public class Student {
     private String lastName;
     private String firstName;
